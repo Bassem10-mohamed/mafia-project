@@ -37,7 +37,7 @@ The game ends when either all Mafia are eliminated (civilians win), or the Mafia
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/mafia-project.git
+git clone https://github.com/Bassem10-mohamed/mafia-project.git
 cd mafia-project
 
 
